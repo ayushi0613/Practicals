@@ -1,0 +1,24 @@
+
+  .outer {
+  position: relative;
+  height: auto;
+  background-color: #fbfbfb;
+  border: 1px solid #eee;
+  margin-bottom: 60px;
+}
+
+.inner {
+  padding: 15px;
+}
+
+.inner p{
+  padding: 7px;
+  font-size: 15px;
+  text-align: justify;
+  font-weight: lighter;
+  font-family:"Open Sans";
+}
+
+.faculty-head{
+  font-family: "Open Sans";
+}
