@@ -1,0 +1,33 @@
+body {
+  background-color: #d9d3d3;
+  font-family: Georgia;
+  margin:0;
+}
+
+div{
+  border: 1px solid #402121;
+  margin:3%;
+  padding: 0;
+}
+
+h1,
+h2 {
+  color: #402121;
+  text-align: center;
+  margin: 2% 0;
+  background-color: #f2f2f2;
+  padding: 5px;
+}
+
+h2{
+    margin:0;
+}
+
+a {
+  color: #402121;
+}
+
+p {
+  margin: 2%;
+  padding: 1%;
+}
